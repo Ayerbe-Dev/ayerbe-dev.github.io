@@ -1,7 +1,11 @@
 ---
 layout: post
-title:  "Blog Post #2"
+title:  "Blog Post #2: Gibbon's Geographical Scholarship"
 date:   2021-09-26 16:20:00 -0400
 categories: jekyll update
 ---
-This is how I do a post, right
+This paper is trying to explain that Gibbon's interest in Rome came from his interest in geography, and that this interest came originally in the form of reading maps, rather than geographical textbooks. Geography was a sort of objective thing to Gibbon without room for any irrational interpretation. While it wasn't his main focus writing The Decline and Fall, it was an important skill for him to learn in order to evaluate the accuracy of his sources while writing it.
+
+This article has references to John Locke, Edward Wells, de Lahontan, William Temple, Hanno, Bonamy, d'Anville, and Jean-Babtiste Bourguignon. Locke served as part of Gibbon's inspiration to start using maps as a primary source, Wells created some of the maps referenced in The Decline and Fall, de Lahontan and Temple both gave Gibbon some information on certain regions, and many of the others wrote various geographical essays.
+
+Rather than just reading about how effective maps were for understanding history, we might be able to organize events based on their geographical locations on a map to actually show how effective they were. This would also help convey how Gibbon talks about space, since it demonstrates exactly what he was talking about.
